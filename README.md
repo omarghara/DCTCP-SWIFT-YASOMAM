@@ -32,7 +32,7 @@ This repository provides a **Fat-Tree topology** implementation for network simu
 ### Enabling NetAnim  
 To enable NetAnim:  
 1. Install **NetAnim** from the [official site](https://www.nsnam.org/wiki/NetAnim).  
-2. Uncomment the **NetAnim section** in the simulation file you wish to run.  
+2. Uncomment the **NetAnim section** in the simulation file you wish to run. (tutorial https://www.youtube.com/watch?v=1FBSAghbjNM)  
 
 ---
 
