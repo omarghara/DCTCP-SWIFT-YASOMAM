@@ -153,7 +153,8 @@ Maintainer: **Yasmin Mitkal**
 📧 yasmin.mitkal@campus.technion.ac.il  
 
 Maintainer: **Amir Watted**  
-📧 Amir.watted@campus.technion.ac.il 
+📧 Amir.Watted@campus.technion.ac.il  
+
 ---
 
 ## 📚 Citation
