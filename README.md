@@ -149,6 +149,11 @@ Maintainer: **Omar Garah**
 📧 garah@campus.technion.ac.il  
 🐙 GitHub: [omarghara](https://github.com/omarghara)
 
+Maintainer: **Yasmin Mitkal**  
+📧 yasmin.mitkal@campus.technion.ac.il  
+
+Maintainer: **Amir Watted**  
+📧 Amir.watted@campus.technion.ac.il 
 ---
 
 ## 📚 Citation
